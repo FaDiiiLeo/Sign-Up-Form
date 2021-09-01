@@ -1,2 +1,2 @@
 # Sign-Up-Form
-Simple Sign Up Form using HTML5 and CSS3.
+Simple Sign Up Form Developed using HTML5 and CSS3.
